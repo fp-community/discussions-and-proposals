@@ -11,7 +11,10 @@ This repository is the right place to do so!
 
 This repository was born by the desire of more improving productivity using FP facility, and a dedicated communication channels for all the members of the community.
 
-You can join and update discussions using [slack](https://fp-community.slack.com)
+You can join and update discussions in https://fp-community.slack.com
+
+[This is slack invitation](https://join.slack.com/t/fp-community/shared_invite/enQtNjYxMDIzMTYyODE2LWM4MTFiODRlOTlhY2FhMDVmNjdjMDNhNDdiZWEzYjU0NGZkMzEzMzFlNDRmYjMwOWJhMjU4OTBiMjJhZjVhODg)
+
 ### Discussions
 
 There are many `fp` libraries and interface and style are some diffrent.
